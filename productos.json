@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T21:42:46.526Z",
+  "updatedAt": "2026-11-17T21:44:34.605Z",
   "business": {
     "id": "Pos Sinthetix",
     "name": "Pos Sinthetix",
@@ -11,8 +11,8 @@
     "showUsdReference": true,
     "vesPerUsd": 914.0218,
     "colors": {
-      "primary": "#6a1b9a",
-      "accent": "#37474f"
+      "primary": "#ef6c00",
+      "accent": "#ad1457"
     }
   },
   "products": [
